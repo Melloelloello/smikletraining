@@ -137,7 +137,7 @@ window.SITE_CONFIG = {
     },
     {
       question: "Do you train in-person or virtually?",
-      answer: "Both. In-person sessions are based in Montclair, NJ; remote coaching is available anywhere with weekly programming and video form checks."
+      answer: "Both. In-person sessions are based in Brooklyn, NY; remote coaching is available anywhere with weekly programming and video form checks."
     },
     {
       question: "Can I reschedule a session?",
