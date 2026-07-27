@@ -105,21 +105,21 @@ window.SITE_CONFIG = {
   testimonials: [
     {
       stars: 5,
-      quote: "Placeholder testimonial copy — real quotes and before/after results go here.",
-      name: "Client Name",
-      meta: "8-Week Build · 3 months"
+      quote: "Coming Soon",
+      name: "Coming Soon",
+      meta: "Coming Soon"
     },
     {
       stars: 5,
-      quote: "Placeholder testimonial copy — real quotes and before/after results go here.",
-      name: "Client Name",
-      meta: "Remote Coaching · 6 months"
+      quote: "Coming Soon",
+      name: "Coming Soon",
+      meta: "Coming Soon"
     },
     {
       stars: 5,
-      quote: "Placeholder testimonial copy — real quotes and before/after results go here.",
-      name: "Client Name",
-      meta: "8-Week Build · 4 months"
+      quote: "Coming Soon",
+      name: "Coming Soon",
+      meta: "Coming Soon"
     }
   ],
 
