@@ -105,8 +105,8 @@ window.SITE_CONFIG = {
   testimonials: [
     {
       stars: 5,
-      quote: "Coming Soon",
-      name: "Coming Soon",
+      quote: "Marlon didn't just teach me how to workout, he helped me fall in love with fitness.",
+      name: "Danielle",
       meta: "Coming Soon"
     },
     {
