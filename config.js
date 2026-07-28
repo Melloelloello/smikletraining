@@ -105,7 +105,7 @@ window.SITE_CONFIG = {
   testimonials: [
     {
       stars: 5,
-      quote: "Marlon didn't just teach me how to workout, he helped me fall in love with fitness. He has an incredible ablity to break down every exercise into simple, bite-sized steps that made them easy to learn and practice on my own. What impressed me most was his emphasis on warmup, stretching, mobility, and injury recovery. His patience, attention to detail, and genuine investment in my success gave me the confidence to train independently. If you're looking for a trainer who teaches, notjusttraines, I highly recommend Marlon",
+      quote: "Marlon didn't just teach me how to workout, he helped me fall in love with fitness. He has an incredible ablity to break down every exercise into simple, bite-sized steps that made them easy to learn and practice on my own. What impressed me most was his emphasis on warmup, stretching, mobility, and injury recovery. His patience, attention to detail, and genuine investment in my success gave me the confidence to train independently. If you're looking for a trainer who teaches, not just trains, I highly recommend Marlon",
       name: "Danielle",
       meta: "Coming Soon"
     },
