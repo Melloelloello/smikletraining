@@ -105,7 +105,7 @@ window.SITE_CONFIG = {
   testimonials: [
     {
       stars: 5,
-      quote: "Marlon didn't just teach me how to workout, he helped me fall in love with fitness.",
+      quote: "Marlon didn't just teach me how to workout, he helped me fall in love with fitness. He has an incredible ablity to break down every exercise into simple, bite-sized steps that made them easy to learn and practice on my own. He even gave me homework after each session and reviewed it at our next meeting, which kept me accountable",
       name: "Danielle",
       meta: "Coming Soon"
     },
